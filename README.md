@@ -31,7 +31,7 @@ DrArticle is a platform that provides **expert articles, research insights,** an
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-github-username/your-repo-name.git
+   git clone https://github.com/drarticle/drarticle.github.io.git
    ```
 2. Make any necessary modifications.
 3. Commit and push the changes:
